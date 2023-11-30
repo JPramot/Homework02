@@ -64,6 +64,16 @@ nav {
     justify-content: center;
     gap: 100px;
 }
+.row1{
+    border-bottom-style: none;
+}
+.row2{
+    border-top-style: none;
+    border-bottom-style: none;
+}
+.row3{
+    border-top-style: none;
+}
 .item>img {
     width: 120px;
     margin: auto;
